@@ -20,3 +20,7 @@ See the `train_tl_demo.ipynb` file.
 ## Reference
 
 [TorchVision Object Detection Finetuning Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
+
+## Screenshots
+
+![tl_detect_example](https://github.com/insaneyilin/pytorch_traffic_lights_detection/blob/master/screenshots/tl_detect_example.png)
