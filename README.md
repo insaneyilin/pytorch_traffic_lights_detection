@@ -11,7 +11,9 @@ All `*.py` files expect `tl_dataset.py` are from [pytorch/vision](https://github
 
 ## Dataset
 
-Traffic Light Detection sample data from [Baidu Apollo Data Open Platform](http://data.apollo.auto)
+Traffic Light Detection sample data from [Baidu Apollo Data Open Platform](http://data.apollo.auto).
+
+Please download the sample data and put it under `./apollo_tl_demo_data/`.
 
 ## Usage
 
