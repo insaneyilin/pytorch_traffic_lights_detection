@@ -2,4 +2,4 @@
 __pycache__
 vis_det/*
 *.pth
-
+output
